@@ -1,0 +1,1 @@
+bool bind(const char* address);
